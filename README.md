@@ -1,4 +1,5 @@
-Hi my name is Mijail Cohen, i made this small app front end on some internet inspired css, and reusable component structure. 
+### Hello
+My name is Mijail Cohen, i made this small app front end on some internet inspired css, and reusable component structure using Create React App
 
 ### `npm start`
 
